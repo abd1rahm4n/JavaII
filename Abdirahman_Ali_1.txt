@@ -1,1 +1,2 @@
 This is my first file for Java II Week 8 assignment.
+I am learning how to make changes directly on GitHub.
